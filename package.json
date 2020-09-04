@@ -88,7 +88,7 @@
     "zone.js": "0.10.3"
   },
   "devDependencies": {
-    "@angular-builders/custom-webpack": "9.1.0",
+    "@angular-builders/custom-webpack": "^9.1.0",
     "@angular/material": "9.2.3",
     "@ismaestro/ngx-example-library": "1.2.0",
     "@nguniversal/builders": "9.1.1",
@@ -102,6 +102,7 @@
     "@types/node": "14.0.1",
     "bowser": "2.9.0",
     "codelyzer": "5.2.2",
+    "copy-modules-webpack-plugin": "^2.1.1",
     "express": "4.17.1",
     "fs": "0.0.1-security",
     "hammerjs": "2.0.8",
