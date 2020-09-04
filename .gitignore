@@ -3,6 +3,7 @@
 # compiled output
 dist
 dist-ssr
+webpack-modules
 /tmp
 /out-tsc
 public
